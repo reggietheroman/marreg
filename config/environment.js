@@ -3,6 +3,7 @@
 module.exports = function(environment) {
   let ENV = {
     modulePrefix: 'marreg',
+    podModulePrefix: 'marreg/pods',
     environment,
     rootURL: '/',
     locationType: 'auto',
